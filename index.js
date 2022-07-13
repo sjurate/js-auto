@@ -13,13 +13,11 @@ console.log(BMW5);
 console.log(Volvo1);
 console.log(LadaRus);
 
-BMW5.uzvestiVarikli();
+BMW5.pasuktiRakteli();
 
 console.log(BMW5);
 console.log(Volvo1);
 
-/*BMW5.isjungtiVarikli();
-console.log(BMW5);*/
 
 Volvo1.uzsegtiDirza();
 console.log(Volvo1);
@@ -30,9 +28,10 @@ BMW5.skintiStotele();
 
 console.log(BMW5);
 
-Volvo1.uzvestiVarikli();
+Volvo1.pasuktiRakteli();
 
 console.log(Volvo1);
+
 
 
 
