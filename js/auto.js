@@ -10,14 +10,10 @@ class Auto {
         this.variklis = 'Isjungtas';
     }
 
-    uzvestiVarikli() {
+    pasuktiRakteli() {
         if(this.variklis === 'Isjungtas') 
             return this.variklis = 'Uzvestas';
         }
-
-    /*isjungtiVarikli () {
-        return this.variklis = 'Isjungtas';
-    }*/
 
 }
 
